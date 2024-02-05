@@ -1,0 +1,16 @@
+{
+    "odata": {
+        "flavor": "x4"
+      },
+      "requires": {
+        "iflow1": {
+          "kind": "rest",
+          "credentials": {
+            "url": "https://95f860detrial.it-cpitrial05-rt.cfapps.us10-001.hana.ondemand.com",
+            "username": "sb-56f343fd-174e-4d1b-8544-54cf0729074b!b224831|it-rt-95f860detrial!b26655",
+            "password": "9b6aafae-377f-434b-ae83-5b02fbd35b5c$jzUJLFFbKxrcmOOCWIdoVC0y9AeyOMlQzkiXDH0cb9Q="
+          }
+        }
+    }
+}
+
