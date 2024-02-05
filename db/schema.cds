@@ -15,6 +15,5 @@ entity Tasks {
         end_date                        : String;
         tat_for_registration_completion : String;
         user                            : String;
-        supplier                        : Association to one Supplier
-                                              on supplier.sm_id = sm_id;
+        supplier                        : Association to one Supplier;
 }

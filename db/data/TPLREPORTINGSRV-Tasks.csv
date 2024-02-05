@@ -1,0 +1,28 @@
+task_name,sm_id,start_date,end_date,tat_for_registration_completion,user
+Supplier Registration questionnaire submission,S1001,01-01-2022,10-01-2022,5,User1
+Api Validation,S1001,01-02-2022,10-02-2022,6,User2
+Approval for Supplier Registration questionnaire for Exceptions,S1001,01-03-2022,10-03-2022,7,User3
+Finance to do the bank validation,S1001,01-04-2022,10-04-2022,8,User4
+Complete finance internal questionnaire,S1001,01-05-2022,10-05-2022,9,User5
+Complete internal Registration questionnaire,S1001,01-01-2022,10-01-2022,5,User1
+Initiate finance vetting process,S1001,01-01-2022,10-01-2022,5,User1
+Initiate CE Process,S1001,01-01-2022,10-01-2022,5,User1
+Final Approvals for Vendor code creation,S1001,01-05-2022,10-05-2022,9,User5
+Supplier Registration questionnaire submission, S1002, 01-01-2022, 10-01-2022, 5 , User1
+Api Validation, S1002, 01-02-2022, 10-02-2022, 6 , User2
+Approval for Supplier Registration questionnaire for Exceptions, S1002, 01-03-2022, 10-03-2022, 7 , User3
+Finance to do the bank validation, S1002, 01-04-2022, 10-04-2022, 8 , User4
+Complete finance internal questionnaire, S1002, 01-05-2022, 10-05-2022, 9 , User5
+Complete internal Registration questionnaire, S1002, 01-01-2022, 10-01-2022, 5 , User1
+Initiate finance vetting process, S1002, 01-01-2022, 10-01-2022, 5 , User1
+Initiate CE Process, S1002, 01-01-2022, 10-01-2022, 5 , User1
+Final Approvals for Vendor code creation, S1002, 01-05-2022, 10-05-2022, 9 , User5
+Supplier Registration questionnaire submission,S1003,2022-01-01,2022-01-10,5 days,User1
+Api Validation,S1003,2022-02-01,2022-02-10,6 days,User2
+Approval for Supplier Registration questionnaire for Exceptions,S1003,2022-03-01,2022-03-10,7 days,User3
+Finance to do the bank validation,S1003,2022-04-01,2022-04-10,8 days,User4
+complete finance internal questionnaire,S1003,2022-05-01,2022-05-10,9 days,User5
+complete internal Registration questionnaire,S1003,2022-01-01,2022-01-10,5 days,User1
+Initiate finance vetting process,S1003,2022-01-01,2022-01-10,5 days,User1
+Initiate CE Process,S1003,2022-01-01,2022-01-10,5 days,User1
+Final Approvals for Vendor code creation,S1003,2022-05-01,2022-05-10,9 days,User5
